@@ -4,7 +4,7 @@
 
 Thank you for visiting the Palindrome C# coding exercise.
 
-A *palindrome* is “a word, phrase, number, or other sequence of symbols or elements, whose meaning may be interpreted the same way in either forward or reverse direction.”
+> A *palindrome* is “a word, phrase, number, or other sequence of symbols or elements, whose meaning may be interpreted the same way in either forward or reverse direction.”
 
 The program shown below is intended to find the number of palindromes in a text file, “UKACD17.TXT” where each line in the file contains a single word or phrase. You have been assigned to do the code review for the program.
 
@@ -54,13 +54,20 @@ public class Program
 | 1         | blob  | 4        | b    | b               | TRUE                    | lo                           |
 | 2         | lo    | 2        | l    | o               | **FALSE**               |                              |
 
+### Code Review Responses
+
+You can add your responses here, in Markdown format:
+
+* *The whole thing is terrible!*
+* …
+
 ## Refactoring
 
 Refactor the code to address your concerns.
 
 The most convenient way to do that is to fork the repository in GitHub and send a pull request containing your suggestions. Alternatively, just zip up your code and email it to the person who asked you to complete this exercise.
 
-You may use AI for this part of the exercise. If you do, explain what prompts you used, and how you evaluated the AI model’s suggestions. (Include that information in your PR or email.)
+> You may use AI for this part of the exercise. If you do, explain what prompts you used, and how you evaluated the AI model’s suggestions. (Include that information in your PR or email.)
 
 Hints and suggestions:
 
