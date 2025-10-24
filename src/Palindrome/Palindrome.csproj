@@ -5,8 +5,9 @@
     <TargetFramework>net9.0</TargetFramework>
     <RootNamespace>Palindrome</RootNamespace>
     <AssemblyName>Palindrome</AssemblyName>
-    <Nullable>disable</Nullable>
-    <ImplicitUsings>disable</ImplicitUsings>
+    
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
 
     <!-- Assembly metadata -->
     <AssemblyTitle>Palindrome</AssemblyTitle>
